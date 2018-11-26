@@ -1,3 +1,4 @@
 {
+  "WCT_python_project/test_suit/functional/automated/common/safehand_admin/login/test_safehand_admin_login.py": true,
   "my_python_project/my_test/my_0_browsercheck_test.py::test_open_url_fail": true
 }
